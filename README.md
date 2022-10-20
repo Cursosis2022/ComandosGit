@@ -34,7 +34,7 @@ Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
 <br>
 
 `git pull origin "name_de_rama"`
-## He creado mi rama
+## He creado mi rama para el repositorio
 
 
 
