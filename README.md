@@ -20,6 +20,11 @@ Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
 1. Ver los link remotos de `fetch` y `push`
    `git remote -v`
    *ejemplo modo remmoto **ssh***
-   ![](ejemplo_remote_ssh.png)
-2. 
+   ![](ejemplo_remote_ssh.png)<br>
+   *ejemplo modo remmoto **https***
+   ![](ejemplo_remote_https.png)
+2. Agregar el repositirio remoto 
+   `git remote -add origin "link_https"`
+
+
 
