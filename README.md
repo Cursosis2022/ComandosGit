@@ -36,6 +36,29 @@ Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
 `git pull origin "name_de_rama"`
 
 
+## Crear una rama
+
+`git checkout "name_rama`
+
+### Crear una rama y cambiarse a ella
+
+`git checkout -b "name_rama`
+
+
+
+## Revisar el hitorial de commits
+<br>
+
+`git log`
+
+Variante: 
+
+`git log --oneline`
+
+## Recuperar un commmit con *git log --oneline*
+
+`git reset --hard "hash_commit"`
+
 
 
 
