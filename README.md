@@ -4,7 +4,8 @@ Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
 
 > Tomar notas en mardown [Guia](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=Lhfnlq1Surtk)<br>
 > Respuestas a preguntas frecuentes de Git [first aid git](https://firstaidgit.io/#/)<br>
-> Libro de Git [clic here](https://es.b-ok.lat/book/1304398/c08aba?dsource=recommend)
+> Libro de Git [clic here](https://es.b-ok.lat/book/1304398/c08aba?dsource=recommend)<br>
+> Libro para principiantes de Git-Hub [clic here](https://es.b-ok.lat/book/5008483/901c35)
 
 ## Inicializar un repositorio
 `git init`
@@ -16,7 +17,7 @@ Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
 ## Hacer una confirmación de cambio
 `git commit -m "comentario de cambio realizado"`
 
-## Configurar el autor y gmail del repositirio
+## Agregar el autor y email del repositirio
 `git config --global user.email "correodeGitGub"`<br> `git config --global usar.name "nombredeGitHUb"`
 ## Configurar el repositirio remoto 
 1. Ver los link remotos de `fetch` y `push`
