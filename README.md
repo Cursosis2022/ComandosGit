@@ -1,10 +1,10 @@
 # ComandosGit
 Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
 
-> Tomar notas en mardown [Guia](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=Lhfnlq1Surtk)
+> Tomar notas en mardown [Guia](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=Lhfnlq1Surtk)<br>
+> Respuestas a preguntas frecuentes de Git [first aid git](https://firstaidgit.io/#/)
 
 ## Inicializar un repositorio
-
 `git init`
 
 ## Añadir un cambio al repositorio
