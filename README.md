@@ -1,8 +1,10 @@
 # ComandosGit
 Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
+<br> Git -> **G***lobal* **I***nformation* **T***racker*
 
 > Tomar notas en mardown [Guia](https://colab.research.google.com/notebooks/markdown_guide.ipynb#scrollTo=Lhfnlq1Surtk)<br>
-> Respuestas a preguntas frecuentes de Git [first aid git](https://firstaidgit.io/#/)
+> Respuestas a preguntas frecuentes de Git [first aid git](https://firstaidgit.io/#/)<br>
+> Libro de Git [clic here](https://es.b-ok.lat/book/1304398/c08aba?dsource=recommend)
 
 ## Inicializar un repositorio
 `git init`
