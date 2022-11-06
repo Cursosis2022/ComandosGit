@@ -27,7 +27,7 @@ Desde los comandos básicos de git hasta comandos de cómo colaborar en equipo.
    *ejemplo modo remoto **https***
    ![](ejemplo_remote_https.png)
 2. Agregar el repositirio remoto 
-   `git remote -add origin "link_https"`
+   `git remote add origin "link_https"`
 ## Subir cambios al repositorio
 <br>
 
