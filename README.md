@@ -63,6 +63,10 @@ Variante:
 `git reset --hard "hash_commit"`
 
 
+## En caso de cambiarle el nombre a una rama en Git-Hub
 
+Realizamos los siguientes comandos
+
+![alt](encasodecambiarelnombredeunarama.png)
 
 
